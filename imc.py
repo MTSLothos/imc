@@ -26,5 +26,3 @@ imc = calcular_imc(peso, altura)
 classificacao = classificar_imc(imc)
 print(f"Seu IMC é: {imc:.2f}")
 print(f"Classificação: {classificacao}")
-
-print('terminei')
